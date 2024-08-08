@@ -26,9 +26,9 @@
 
 
 <h2 style="color:#2ecc71;">Websitesi Linki</h2>
-<p>Projeyi canlı olarak görmek için <a href="https://www.ornek-domein.com" target="_blank" style="color:#2980b9; text-decoration: none;">buraya tıklayın</a>.</p>
+<p>Projeyi canlı olarak görmek için <a href="http://3dlabart.com/" target="_blank" style="color:#2980b9; text-decoration: none;">buraya tıklayın</a>.</p>
 
 <h2 style="color:#2ecc71;">İletişim</h2>
-<p>Bu projeyle ilgili detaylar veya geri bildirim için <a href="mailto:bugrabatuhanbasar@gmail.com" style="color:#c0392b; text-decoration: none;">buradan</a> bana ulaşabilirsiniz.</p>
+<p>Bu projeyle ilgili detaylar veya geri bildirim için <a href="mailto:treebsoftware@gmail.com" style="color:#c0392b; text-decoration: none;">buradan</a> bana ulaşabilirsiniz.</p>
 
 <p><em>Bu proje, 3dlabart Mimarlık Ofisi için özel olarak tasarlanmıştır ve müşteri ihtiyaçlarına göre geliştirilmiştir.</em></p>

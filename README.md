@@ -19,9 +19,11 @@
 <h2 style="color:#2ecc71;">Görseller</h2>
 <p>Web sitesinin bazı bölümlerine ait görseller aşağıda sunulmuştur:</p>
 <!-- Görsel 1 -->
-<img src="https://www.ornek-domein.com/3dlabart-gorsel1.jpg" alt="Websitesi Ana Sayfa" style="border: 1px solid #ddd; border-radius: 4px; padding: 5px; width: 100%;">
+<img src="images/desktop.png" alt="Websitesi Ana Sayfa" style="border: 1px solid #ddd; border-radius: 4px; padding: 5px; width: 100%;">
 <!-- Görsel 2 -->
-<img src="https://www.ornek-domein.com/3dlabart-gorsel2.jpg" alt="Portföy Sayfası" style="border: 1px solid #ddd; border-radius: 4px; padding: 5px; width: 100%; margin-top: 20px;">
+<img src="images/desktop-two.png" alt="Portföy Sayfası" style="border: 1px solid #ddd; border-radius: 4px; padding: 5px; width: 100%; margin-top: 20px;">
+<img src="images/desktop-three.png" alt="Portföy Sayfası" style="border: 1px solid #ddd; border-radius: 4px; padding: 5px; width: 100%; margin-top: 20px;">
+
 
 <h2 style="color:#2ecc71;">Websitesi Linki</h2>
 <p>Projeyi canlı olarak görmek için <a href="https://www.ornek-domein.com" target="_blank" style="color:#2980b9; text-decoration: none;">buraya tıklayın</a>.</p>
